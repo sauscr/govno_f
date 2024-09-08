@@ -1,0 +1,26 @@
+/* src/styles/global.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .home-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #800020;
+    color: white;
+    border: none;
+    margin: 5px;
+    cursor: pointer;
+  }
